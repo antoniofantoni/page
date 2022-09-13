@@ -1,0 +1,148 @@
+
+body{
+    background-color:  rgb(12, 96, 141);
+    margin: 15px;
+    font-size: 20px;
+    max-width: 100%;
+    color: azure;
+}
+
+main{
+    text-align: center;
+}
+
+hr {
+
+border-style: none;
+border-top-style: dotted;
+border-color: rgb(98, 204, 239);
+border-width: 5px;
+width: 5%;
+
+}
+
+#dog{
+    width: 30px;
+}
+
+
+#coffee{
+    width: 30px;
+}
+
+#github{
+    width: 30px;
+    }
+
+    #zap{
+        width: 30px;
+    }
+#livro{
+    width: 200px;
+   
+}
+
+
+#github:hover, #zap:hover{
+    width: 50px;
+    
+}
+#hobbies {
+    
+     padding: 2px; 
+    font-size: 20px;
+    
+}
+
+
+#gh,#wz{
+    text-align: left;
+    }
+
+#eu{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%
+}
+
+p{
+    text-align: center;
+    }
+img, h1{
+    
+    display: inline-block;
+}
+
+h1 {
+    color: rgb(4, 20, 107);
+    width: 300px;
+    margin: 10px;
+}
+
+h2 {
+    color: rgb(4, 20, 107);
+}
+
+
+
+img{
+    width: 600px;
+   
+    
+    }
+
+
+    footer{
+        text-align: center;
+        margin-top: 10px;
+        background-color: rgb(98, 204, 239);
+        color: black;
+               padding: 0px;
+    }
+
+
+    /*RESPONSIVIDA COM MEDIAQUERY*/
+	
+@media(max-width: 700px) { /*max-width:600px ->    <= 600px* se fosse min-width -> >= 600px*/
+img {
+        width: 400px;
+       
+}
+
+p{
+text-align: center;
+overflow: hidden;
+}
+body {
+    background-color: rgb(247, 217, 223);
+    font-size: 15px;
+    text-align: center;
+    color: black;
+   
+}
+
+ol{
+    text-align: left;
+}
+
+#gh,#wz{
+text-align: left;
+}
+
+
+hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color:  rgb(246, 143, 120);
+    border-width: 5px;
+    width: 6%;
+
+}
+
+footer{
+    color: rgb(112, 65, 65);
+    background-color: rgb(248, 193, 193);
+
+}
+}
