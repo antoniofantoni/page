@@ -92,16 +92,16 @@ img{
     }
 
 
-    footer{
-        text-align: center;
-        margin-top: 10px;
-        background-color: rgb(250, 162, 146);
-        color: black;
-               padding: 0px;
-    }
+footer{
+   text-align: center;
+   margin-top: 10px;
+   background-color: rgb(250, 162, 146);
+   color: black;
+   padding: 0px;
+}
 
 
-    /*RESPONSIVIDA COM MEDIAQUERY*/
+/*RESPONSIVIDA COM MEDIAQUERY*/
 	
 @media(max-width: 700px) { /*max-width:600px ->    <= 600px* se fosse min-width -> >= 600px*/
 img {
@@ -115,8 +115,7 @@ overflow: hidden;
 }
 body {
     background-color: rgb(247, 217, 223);
-    font-size: 13px;
-    /* text-align: center; */
+    font-size: 14px;
     color: black;
    
 }
