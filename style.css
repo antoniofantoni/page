@@ -7,9 +7,9 @@ body{
     color: azure;
 }
 
-main{
+/* main{
     text-align: center;
-}
+} */
 
 hr {
 
@@ -65,9 +65,9 @@ width: 5%;
     border-radius: 50%
 }
 
-p{
+/* p{
     text-align: center;
-    }
+    } */
 img, h1{
     
     display: inline-block;
