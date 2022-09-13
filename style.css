@@ -1,10 +1,10 @@
 
 body{
-    background-color:  rgb(12, 96, 141);
+    background-color:  rgb(247, 123, 101);
     margin: 15px;
     font-size: 20px;
     max-width: 100%;
-    color: azure;
+    color: black
 }
 
 /* main{
@@ -15,7 +15,7 @@ hr {
 
 border-style: none;
 border-top-style: dotted;
-border-color: rgb(98, 204, 239);
+border-color: rgb(243, 162, 148);
 border-width: 5px;
 width: 5%;
 
@@ -110,13 +110,13 @@ img {
 }
 
 p{
-text-align: center;
+/* text-align: center; */
 overflow: hidden;
 }
 body {
     background-color: rgb(247, 217, 223);
     font-size: 13px;
-    text-align: center;
+    /* text-align: center; */
     color: black;
    
 }
