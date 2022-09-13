@@ -105,7 +105,7 @@ img{
 	
 @media(max-width: 700px) { /*max-width:600px ->    <= 600px* se fosse min-width -> >= 600px*/
 img {
-        width: 400px;
+        width: 280px;
        
 }
 
@@ -115,7 +115,7 @@ overflow: hidden;
 }
 body {
     background-color: rgb(247, 217, 223);
-    font-size: 15px;
+    font-size: 13px;
     text-align: center;
     color: black;
    
@@ -136,7 +136,7 @@ hr {
     border-top-style: dotted;
     border-color:  rgb(246, 143, 120);
     border-width: 5px;
-    width: 6%;
+    width: 5%;
 
 }
 
