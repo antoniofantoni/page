@@ -15,7 +15,7 @@ hr {
 
 border-style: none;
 border-top-style: dotted;
-border-color: rgb(247, 123, 101);
+border-color: rgb(241, 44, 9);
 border-width: 5px;
 width: 5%;
 
@@ -136,13 +136,13 @@ hr {
     border-top-style: dotted;
     border-color:  rgb(246, 143, 120);
     border-width: 5px;
-    width: 5%;
+    width: 6%;
 
 }
 
 footer{
-    color: rgb(112, 65, 65);
-    background-color: rgb(48, 19, 155);
+    color: white
+    background-color: tomato
 
 }
 }
