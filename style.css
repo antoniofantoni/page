@@ -105,7 +105,7 @@ img{
 	
 @media(max-width: 700px) { /*max-width:600px ->    <= 600px* se fosse min-width -> >= 600px*/
 img {
-        width: 280px;
+        width: 240px;
        
 }
 
